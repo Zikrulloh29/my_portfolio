@@ -17,4 +17,6 @@ function toggleMenu() {
       modeSwitchButton.addEventListener("click", toggleDarkMode);
     }
   });
+
+  // Änderung
   
