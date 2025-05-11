@@ -218,6 +218,16 @@ a,
     height: 80vh;
 }
 
+/* Änderung 
+
+#project-start-titel {
+    margin-bottom: 5rem;
+}*/
+
+#project-container {
+    margin-top: 10rem;
+}
+
 .section__text {
     align-self: center;
 }
